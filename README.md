@@ -26,4 +26,4 @@ m = 2.
 
 Utilizando 3 procesadores.
 
-![Alt text](https://github.com/LuisAaronNietoCruz/Practica_Anillo/blob/main/Compilaci%C3%B3n.jpg 'Compilación') 
+![Alt text](.jpg 'Compilación') 
