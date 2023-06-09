@@ -20,7 +20,7 @@ Correr el archivo compilado:
 ## Resultado
 Con:
 
-x0 = 1.
+x0 = 0.
 
 m = 2.
 
