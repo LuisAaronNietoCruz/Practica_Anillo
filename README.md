@@ -15,7 +15,7 @@ Compilar el archivo  practica1:
 `mpicc practica1.c -o practica1`
 
 Correr el archivo compilado:
-`mpiexec -n 3 ./practica1`
+`mpiexec -n [numero de procesos] ./practica1`
 
 ## Resultado
 Con:
